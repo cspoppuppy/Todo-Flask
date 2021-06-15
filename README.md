@@ -1,6 +1,4 @@
-# Todo
-
-Flask app
+# Todo List App (Flask)
 
 ### Setup
 
