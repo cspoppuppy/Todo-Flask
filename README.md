@@ -6,7 +6,7 @@
 -   Setup virtual environment
 
 ```console
-python -m venv env # create virtual environment "env"
+python3 -m venv env # create virtual environment "env"
 
 source env/bin/activate # activate virtual environment
 ```
